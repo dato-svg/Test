@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\white - pc\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\white - pc\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Test.292719562.00" t="ExcludeRecursive" />
+    <e p="C:\Users\white - pc\Desktop\Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MyScripts" t="Include">
+          <e p="Camera" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="Mover" t="Include">
+            <e p="ConstantRotation.cs" t="Include" />
+            <e p="LookAtTarget.cs" t="Include" />
+          </e>
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerControl" t="Include">
+            <e p="IPlayerInput.cs" t="Include" />
+            <e p="KeyboardInputService.cs" t="Include" />
+            <e p="PlayerModelAnimator.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="TouchInputService.cs" t="Include" />
+          </e>
+          <e p="PlayerVisual.cs" t="Include" />
+          <e p="SpawnObjectWithSound.cs" t="Include" />
+          <e p="Trigger" t="Include">
+            <e p="BadDoorTrigger.cs" t="Include" />
+            <e p="CheckPoint.cs" t="Include" />
+            <e p="DoorTrigger.cs" t="Include" />
+            <e p="IMoneyChanger.cs" t="Include" />
+            <e p="MoneyChanger.cs" t="Include" />
+            <e p="MoneyPopup.cs" t="Include" />
+            <e p="MoneySubtract.cs" t="Include" />
+            <e p="OverController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Level Manager" t="Include">
+            <e p="Editor" t="Include">
+              <e p="LevelManagerEditor.cs" t="Include" />
+            </e>
+            <e p="Level.cs" t="Include" />
+            <e p="LevelManager.cs" t="Include" />
+            <e p="LevelsList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="testera" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Visual" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="Hidden_BlitCopyHDRTonemap.shader" t="Include" />
+                  <e p="Mobile_Diffuse + Color.shader" t="Include" />
+                  <e p="Mobile_Diffuse + Emission +  Specular.shader" t="Include" />
+                  <e p="Mobile_Diffuse + Emission.shader" t="Include" />
+                  <e p="Toony Colors Pro 2_User_SliderRamp.shader" t="Include" />
+                  <e p="Voodoo_LaunchOps_SliderRampSpecRimNormal.shader" t="Include" />
+                  <e p="Voodoo_LaunchOps_SliderRampSpecularNormal.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Test.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

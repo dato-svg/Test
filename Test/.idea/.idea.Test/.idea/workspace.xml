@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f3c2443-663a-40dd-aaf5-5f809dc6aa8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/DoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/OverController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/CheckPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Mover/ConstantRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/IMoneyChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneySubtract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/BadDoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/SpawnObjectWithSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/PlayerVisual.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Mover/LookAtTarget.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyGiver.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Mover/LookAtPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Mover/ConstantRotation.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Mover/LookAtTarget.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/TestMoney.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/IMoneyChanger.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/BadDoorTrigger.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/DoorTrigger.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/TurnTrigger.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/RotateChild.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerControl/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/SpawnObjectWithSound.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyChanger.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/CheckPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyPopup.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/OverController.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerVisual.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneySubtract.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Player.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2q6f4g3PBuYuyirtCA7ZipN3CSC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
