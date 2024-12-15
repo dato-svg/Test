@@ -8,20 +8,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/DoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/OverController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/CheckPoint.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Mover/ConstantRotation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/IMoneyChanger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyPopup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneySubtract.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/BadDoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyScripts/SpawnObjectWithSound.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/PlayerVisual.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/OverController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/IMoneyChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/MoneyMultiplierUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/DoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Mover/ConstantRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Mover/LookAtTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/PlayerUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/ObjectRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneySubtract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/MoneyAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/Trigger/BadDoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/PlayerVisual.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -35,16 +39,23 @@
       <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/DoorTrigger.cs" />
       <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/TurnTrigger.cs" />
       <option value="$PROJECT_DIR$/Assets/MyScripts/RotateChild.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerControl/PlayerMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/MyScripts/SpawnObjectWithSound.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyChanger.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/ObjectRotator.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerControl/TouchInputService.cs" />
       <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/CheckPoint.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyPopup.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/OverController.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerVisual.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneySubtract.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyScripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerControl/PlayerMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/MyScripts/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/SceneLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/MoneyMultiplierUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Level Manager/LevelManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/OverController.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerVisual.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyPopup.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneySubtract.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/MoneyAnimator.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyScripts/Trigger/MoneyChanger.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2q6f4g3PBuYuyirtCA7ZipN3CSC" />

@@ -4,5 +4,5 @@ using UnityEngine;
 
 public interface IMoneyChanger
 {
-    void ChangeMoney(Player player, Collider collider);
+    void ChangeMoney(PlayerUI playerUi, Collider collider);
 }

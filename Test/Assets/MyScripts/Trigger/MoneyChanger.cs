@@ -14,16 +14,18 @@ namespace Trigger
         [SerializeField] private MoneyChangeType changeType;
         [SerializeField] private bool randomCount;
 
+        [SerializeField] private GameObject _particle;
+        
         private SpawnObjectWithSound _spawnSount;
-
+        
         private void Start()
         {
             _spawnSount = GetComponent<SpawnObjectWithSound>();
         }
-
+        
         private void OnTriggerEnter(Collider other)
         {
-            Player player = other.GetComponent<Player>();
+            PlayerUI  player= other.GetComponent<PlayerUI>();
             if (player != null)
             {
                 ChangeMoney(player,other);
@@ -44,7 +46,7 @@ namespace Trigger
             }
         }
         
-        public void ChangeMoney(Player player, Collider collider)
+        public void ChangeMoney(PlayerUI player, Collider collider)
         {
             if (randomCount)
             {
@@ -53,6 +55,12 @@ namespace Trigger
             if (changeType == MoneyChangeType.Add)
             {
                 collider.GetComponent<MoneyPopup>().AddMoney(amount);
+                if (_particle != null)
+                {
+                    GameObject pa = Instantiate(_particle, collider.transform.position + Vector3.up , Quaternion.identity);
+                }
+               
+                
             }
             else if (changeType == MoneyChangeType.Subtract)
             {

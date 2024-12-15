@@ -685,6 +685,8 @@ MonoBehaviour:
   amount: 20
   changeType: 0
   randomCount: 0
+  _goodMoneyParticle: {fileID: 8449370979428999347, guid: 72520cce14bf1c74a977d04fa582bd3a, type: 3}
+  _badMoneyParticle: {fileID: 7782132293889086953, guid: 909fa7b396cbff8449f3a99ec171d420, type: 3}
 --- !u!114 &5804981536806136802
 MonoBehaviour:
   m_ObjectHideFlags: 0

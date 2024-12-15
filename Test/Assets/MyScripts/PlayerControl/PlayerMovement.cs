@@ -10,9 +10,9 @@ namespace PlayerControl
         [SerializeField] private float lateralSpeed = 2f;
         [SerializeField] private float tiltAngle = 15f;
         [SerializeField] private float rotationSmoothness = 10f;
-
+        
         [SerializeField] private Transform _childTransform;
-
+        
         private IPlayerInput _playerInput;
         private Rigidbody _rb;
         private float _currentRotation = 0f;
@@ -31,12 +31,12 @@ namespace PlayerControl
 #endif
             _targetRotation = transform.rotation;
         }
-
+        
         private void FixedUpdate()
         {
             Move();
         }
-
+        
         private void Move()
         {
             Vector3 forwardMovement = _currentDirection * forwardSpeed * Time.fixedDeltaTime;
@@ -54,7 +54,7 @@ namespace PlayerControl
             _childTransform.rotation = Quaternion.Slerp(_childTransform.rotation, tiltQuaternion, rotationSmoothness * Time.fixedDeltaTime);
         }
 
-
+        
         
 
         private void ChangeDirection(Vector3 newDirection)

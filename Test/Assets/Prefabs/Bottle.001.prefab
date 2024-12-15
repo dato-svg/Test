@@ -122,6 +122,7 @@ MonoBehaviour:
   amount: 20
   changeType: 1
   randomCount: 0
+  _particle: {fileID: 7782132293889086953, guid: 909fa7b396cbff8449f3a99ec171d420, type: 3}
 --- !u!114 &4970338970641011292
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\white - pc\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\white - pc\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Test.292719562.00" t="ExcludeRecursive" />
-    <e p="C:\Users\white - pc\Desktop\Test" t="IncludeRecursive">
+    <e p="C:\Users\white - pc\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Test.725858211.00" t="ExcludeRecursive" />
+    <e p="C:\Users\white - pc\Desktop\GItHub\Test\Test\Test" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -12,11 +12,13 @@
             <e p="CameraFollow.cs" t="Include" />
           </e>
           <e p="GameManager.cs" t="Include" />
+          <e p="MoneyAnimator.cs" t="Include" />
+          <e p="MoneyMultiplierUI.cs" t="Include" />
           <e p="Mover" t="Include">
             <e p="ConstantRotation.cs" t="Include" />
             <e p="LookAtTarget.cs" t="Include" />
           </e>
-          <e p="Player.cs" t="Include" />
+          <e p="ObjectRotator.cs" t="Include" />
           <e p="PlayerControl" t="Include">
             <e p="IPlayerInput.cs" t="Include" />
             <e p="KeyboardInputService.cs" t="Include" />
@@ -24,7 +26,9 @@
             <e p="PlayerMovement.cs" t="Include" />
             <e p="TouchInputService.cs" t="Include" />
           </e>
+          <e p="PlayerUI.cs" t="Include" />
           <e p="PlayerVisual.cs" t="Include" />
+          <e p="SceneLoader.cs" t="Include" />
           <e p="SpawnObjectWithSound.cs" t="Include" />
           <e p="Trigger" t="Include">
             <e p="BadDoorTrigger.cs" t="Include" />

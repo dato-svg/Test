@@ -13,7 +13,7 @@ namespace ButchersGames
         public static LevelManager Default { get => _default; }
         public LevelManager() => _default = this;
         #endregion
-
+        
         const string CurrentLevel_PrefsKey = "Current Level";
         const string CompleteLevelCount_PrefsKey = "Complete Lvl Count";
         const string LastLevelIndex_PrefsKey = "Last Level Index";
@@ -28,10 +28,10 @@ namespace ButchersGames
         [SerializeField] bool editorMode = false;
         [SerializeField] LevelsList levels;
         public List<Level> Levels => levels.lvls;
-
+        
         public event Action OnLevelStarted;
-
-
+        
+        
         public void Init()
         {
 #if !UNITY_EDITOR
