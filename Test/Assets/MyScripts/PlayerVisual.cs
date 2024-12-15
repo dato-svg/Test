@@ -15,7 +15,7 @@ public class PlayerVisual : MonoBehaviour
     [SerializeField] private ObjectRotator _player;
     
     
-    private string[] _text = new[] {"poor", "wealthy", "rich"};
+    private string[] _text = new[] {"Бедный", "Состоятельный", "Богатый"};
     private MoneyPopup _money;
     private int _currentIndexText;
     private int _currentIndex;

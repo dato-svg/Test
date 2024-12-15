@@ -9429,8 +9429,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 636e6bc4436457645ab63350952faaf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1666242061}
-  offset: {x: 0, y: 3, z: -3.97}
+  player: {fileID: 6210461554674564813}
+  offset: {x: 0, y: 2.4, z: -2.52}
   rotation: {x: 0.2079117, y: 0, z: 0, w: 0.9781476}
   followSpeed: 10
 --- !u!1 &333956211
@@ -45963,11 +45963,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5401288951709671890, guid: 60a0fcd2f689daf49b912f89b35f27e6, type: 3}
   m_PrefabInstance: {fileID: 6210461554674564812}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1666242061 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2678849100775851034, guid: 60a0fcd2f689daf49b912f89b35f27e6, type: 3}
-  m_PrefabInstance: {fileID: 6210461554674564812}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1667271101
 GameObject:
   m_ObjectHideFlags: 0
@@ -59310,6 +59305,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60a0fcd2f689daf49b912f89b35f27e6, type: 3}
+--- !u!4 &6210461554674564813 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2678849100775851034, guid: 60a0fcd2f689daf49b912f89b35f27e6, type: 3}
+  m_PrefabInstance: {fileID: 6210461554674564812}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7197651966368865815
 PrefabInstance:
   m_ObjectHideFlags: 0
